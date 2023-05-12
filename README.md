@@ -16,12 +16,8 @@ A software for color dynamic identification  | 一个基于HSV 用来实时动�
 ## 这是什么？
 只是闲得无聊写的 一个小工具（），或许你可以用它看看电脑眼中的世界？
 
-<br>
-
 ## 为什么软件总是给我识别到一些奇怪的地方？
 你可以调调HSV三个小滑轮来适应属于你的颜色
-
-<br>
 
 ## 用法
 1. 打开`qtMain.exe`
