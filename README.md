@@ -18,9 +18,9 @@ A software for color dynamic identification  | 一个基于HSV 用来实时动�
 你可以调调HSV三个小滑轮来适应属于你的颜色
 
 ## 用法
-1. 打开qtmain.py
+1. 打开`qtMain.exe`
 2. 打开摄像头
-3. 启动
+3. 启动`边调边测`
 4. 在相应范围内选取HSV（上阈值和下阈值）
 5. 图像可以实时反馈二值化后的检测结果来得到你想要的实际颜色范围
 
