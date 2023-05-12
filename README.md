@@ -11,11 +11,14 @@ A software for color dynamic identification  | 一个基于HSV 用来实时动�
     <img src="https://img.shields.io/badge/Python-3.8+-blue" alt="license">
 </p>
 
+
 ## 这是什么？
 只是闲得无聊写的 一个小工具（），或许你可以用它看看电脑眼中的世界？
 
+
 ## 为什么软件总是给我识别到一些奇怪的地方？
 你可以调调HSV三个小滑轮来适应属于你的颜色
+
 
 ## 用法
 1. 打开`qtMain.exe`
